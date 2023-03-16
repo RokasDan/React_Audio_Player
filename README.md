@@ -2,6 +2,8 @@
 
 React Audio Player is a custom player that I created for use on my websites. This component offers seamless audio control on a page by automatically pausing playback on one instance when another is activated. It includes two variations and support for multiple instances per page.
 
+To read more about this player please visit my [website](https://rokasdanevicius.com/ReactAudio).
+
 ## Usage
 
 To use the React Audio Player for your own project, follow these steps:
